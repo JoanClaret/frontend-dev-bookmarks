@@ -421,6 +421,7 @@
             + [Jester](https://github.com/plainview/Jester)
             + [JS Touch Layer](https://github.com/andyjamesdavies/jsTouchLayer)
             + [Touch Events and Abstractions](http://yuilibrary.com/yui/docs/event/touch.html)
+            + [QuoJS](http://quojs.tapquo.com/) Micro JavaScript Library that simplifies your mobile projects
         + DOM Objects Manipulation
             + [jQuery.event.move](http://stephband.info/jquery.event.move/)
         + Tap Acceleration
